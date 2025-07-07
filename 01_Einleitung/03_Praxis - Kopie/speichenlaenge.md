@@ -13,7 +13,6 @@ Weil es *höchste Zeit* für eine umfassende Anleitung ist.
 ### Vorteile dieses Buchs
 
 - Es ist praxisnah
-- testhinzufügen
 - Es basiert auf Erfahrung
 
 #### Vierte unterüberschrift
